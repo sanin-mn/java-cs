@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-
+// test
 class Extract{
     public static void main(String args[]){
         String s1;
